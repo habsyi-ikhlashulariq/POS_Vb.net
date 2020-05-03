@@ -1,0 +1,82 @@
+c:\users\user\documents\visual studio 2010\Projects\UAS(14180057)2\UAS(14180057)2\bin\Debug\UAS(14180057)2.exe
+c:\users\user\documents\visual studio 2010\Projects\UAS(14180057)2\UAS(14180057)2\bin\Debug\UAS(14180057)2.pdb
+c:\users\user\documents\visual studio 2010\Projects\UAS(14180057)2\UAS(14180057)2\bin\Debug\UAS(14180057)2.xml
+c:\users\user\documents\visual studio 2010\Projects\UAS(14180057)2\UAS(14180057)2\obj\x86\Debug\UAS_14180057_2.Form1.resources
+c:\users\user\documents\visual studio 2010\Projects\UAS(14180057)2\UAS(14180057)2\obj\x86\Debug\UAS_14180057_2.Resources.resources
+c:\users\user\documents\visual studio 2010\Projects\UAS(14180057)2\UAS(14180057)2\obj\x86\Debug\UAS(14180057)2.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2010\Projects\UAS(14180057)2\UAS(14180057)2\obj\x86\Debug\UAS(14180057)2.exe
+c:\users\user\documents\visual studio 2010\Projects\UAS(14180057)2\UAS(14180057)2\obj\x86\Debug\UAS(14180057)2.xml
+c:\users\user\documents\visual studio 2010\Projects\UAS(14180057)2\UAS(14180057)2\obj\x86\Debug\UAS(14180057)2.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\UAS(14180057)2\UAS(14180057)2\obj\x86\Debug\UAS_14180057_2.Login.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\UAS(14180057)2\UAS(14180057)2\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\User\Documents\Visual Studio 2010\Projects\UAS(14180057)2\UAS(14180057)2\obj\x86\Debug\Interop.ADOMD.dll
+C:\Users\User\Documents\Visual Studio 2010\Projects\UAS(14180057)2\UAS(14180057)2\obj\x86\Debug\UAS(14180057)2.vbproj.ResolveComReference.cache
+C:\Users\User\documents\visual studio 2010\Projects\UAS(14180057)2\UAS(14180057)2\obj\x86\Debug\UAS_14180057_2.Dashboard.resources
+C:\Users\User\documents\visual studio 2010\Projects\UAS(14180057)2\UAS(14180057)2\obj\x86\Debug\UAS_14180057_2.Barang.resources
+C:\Users\User\documents\visual studio 2010\Projects\UAS(14180057)2\UAS(14180057)2\obj\x86\Debug\UAS_14180057_2.user.resources
+C:\Users\User\documents\visual studio 2010\Projects\UAS(14180057)2\UAS(14180057)2\obj\x86\Debug\UAS_14180057_2.tmbh_user.resources
+C:\Users\User\documents\visual studio 2010\Projects\UAS(14180057)2\UAS(14180057)2\obj\x86\Debug\UAS_14180057_2.update_delete_user.resources
+C:\Users\User\documents\visual studio 2010\Projects\UAS(14180057)2\UAS(14180057)2\obj\x86\Debug\UAS_14180057_2.tambah_barang.resources
+C:\Users\User\documents\visual studio 2010\Projects\UAS(14180057)2\UAS(14180057)2\obj\x86\Debug\UAS_14180057_2.Jenis_Barang.resources
+C:\Users\User\documents\visual studio 2010\Projects\UAS(14180057)2\UAS(14180057)2\obj\x86\Debug\UAS_14180057_2.tmbah_jenis_barang.resources
+C:\Users\User\documents\visual studio 2010\Projects\UAS(14180057)2\UAS(14180057)2\obj\x86\Debug\UAS_14180057_2.update_delete_barang.resources
+C:\Users\User\documents\visual studio 2010\Projects\UAS(14180057)2\UAS(14180057)2\obj\x86\Debug\UAS_14180057_2.update_delete_jenis_barang.resources
+C:\Users\User\documents\visual studio 2010\Projects\UAS(14180057)2\UAS(14180057)2\obj\x86\Debug\UAS_14180057_2.Suplier.resources
+C:\Users\User\documents\visual studio 2010\Projects\UAS(14180057)2\UAS(14180057)2\obj\x86\Debug\UAS_14180057_2.tambah_suplier.resources
+C:\Users\User\documents\visual studio 2010\Projects\UAS(14180057)2\UAS(14180057)2\obj\x86\Debug\UAS_14180057_2.update_delete_suplier.resources
+C:\Users\User\documents\visual studio 2010\Projects\UAS(14180057)2\UAS(14180057)2\obj\x86\Debug\UAS_14180057_2.beli_brg.resources
+C:\Users\User\documents\visual studio 2010\Projects\UAS(14180057)2\UAS(14180057)2\obj\x86\Debug\UAS_14180057_2.pembelian.resources
+C:\Users\User\documents\visual studio 2010\Projects\UAS(14180057)2\UAS(14180057)2\obj\x86\Debug\UAS_14180057_2.ubah_beli.resources
+C:\Users\User\documents\visual studio 2010\Projects\UAS(14180057)2\UAS(14180057)2\obj\x86\Debug\UAS_14180057_2.penjualan.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\UAS(14180057)2\UAS(14180057)2\bin\Debug\Interop.Crystal.dll
+C:\Users\User\Documents\Visual Studio 2010\Projects\UAS(14180057)2\UAS(14180057)2\bin\Debug\AxInterop.Crystal.dll
+C:\Users\User\Documents\Visual Studio 2010\Projects\UAS(14180057)2\UAS(14180057)2\obj\x86\Debug\Interop.Crystal.dll
+C:\Users\User\Documents\Visual Studio 2010\Projects\UAS(14180057)2\UAS(14180057)2\obj\x86\Debug\AxInterop.Crystal.dll
+C:\Users\User\documents\visual studio 2010\Projects\UAS(14180057)2\UAS(14180057)2\obj\x86\Debug\Interop.CRVIEWERLib.dll
+C:\Users\User\documents\visual studio 2010\Projects\UAS(14180057)2\UAS(14180057)2\obj\x86\Debug\AxInterop.CRVIEWERLib.dll
+C:\Users\User\documents\visual studio 2010\Projects\UAS(14180057)2\UAS(14180057)2\obj\x86\Debug\UAS_14180057_2.Form2.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\UAS(14180057)2\UAS(14180057)2\obj\x86\Debug\UAS(14180057)2.vbprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2010\Projects\UAS(14180057)2\UAS(14180057)2\bin\Debug\UAS(14180057)2.exe.config
+C:\Users\User\Documents\Visual Studio 2010\Projects\UAS(14180057)2\UAS(14180057)2\bin\Debug\Interop.CRVIEWERLib.dll
+C:\Users\User\Documents\Visual Studio 2010\Projects\UAS(14180057)2\UAS(14180057)2\bin\Debug\AxInterop.CRVIEWERLib.dll
+C:\Users\User\Documents\Visual Studio 2010\Projects\UAS(14180057)2\UAS(14180057)2\obj\x86\Debug\UAS_14180057_2.laporan.resources
+C:\Users\User\documents\visual studio 2010\Projects\UAS(14180057)2\UAS(14180057)2\bin\Debug\UAS(14180057)2.exe.manifest
+C:\Users\User\documents\visual studio 2010\Projects\UAS(14180057)2\UAS(14180057)2\bin\Debug\UAS(14180057)2.application
+C:\Users\User\documents\visual studio 2010\Projects\UAS(14180057)2\UAS(14180057)2\obj\x86\Debug\UAS(14180057)2.exe.manifest
+C:\Users\User\documents\visual studio 2010\Projects\UAS(14180057)2\UAS(14180057)2\obj\x86\Debug\UAS(14180057)2.application
+C:\Users\User\Downloads\POS VB.net\UAS(14180057)2\bin\Debug\UAS(14180057)2.exe.config
+C:\Users\User\Downloads\POS VB.net\UAS(14180057)2\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\User\Downloads\POS VB.net\UAS(14180057)2\obj\x86\Debug\Interop.ADOMD.dll
+C:\Users\User\Downloads\POS VB.net\UAS(14180057)2\obj\x86\Debug\UAS(14180057)2.vbproj.ResolveComReference.cache
+C:\Users\User\Downloads\POS VB.net\UAS(14180057)2\obj\x86\Debug\UAS(14180057)2.exe
+C:\Users\User\Downloads\POS VB.net\UAS(14180057)2\obj\x86\Debug\UAS(14180057)2.xml
+C:\Users\User\Downloads\POS VB.net\UAS(14180057)2\obj\x86\Debug\UAS(14180057)2.pdb
+C:\Users\User\Downloads\POS VB.net\UAS(14180057)2\obj\x86\Debug\UAS(14180057)2.vbprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\POS VB.net\UAS(14180057)2\bin\Debug\UAS(14180057)2.exe.manifest
+C:\Users\User\Downloads\POS VB.net\UAS(14180057)2\bin\Debug\UAS(14180057)2.application
+C:\Users\User\Downloads\POS VB.net\UAS(14180057)2\bin\Debug\UAS(14180057)2.exe
+C:\Users\User\Downloads\POS VB.net\UAS(14180057)2\bin\Debug\UAS(14180057)2.pdb
+C:\Users\User\Downloads\POS VB.net\UAS(14180057)2\bin\Debug\UAS(14180057)2.xml
+C:\Users\User\Downloads\POS VB.net\UAS(14180057)2\obj\x86\Debug\UAS_14180057_2.Barang.resources
+C:\Users\User\Downloads\POS VB.net\UAS(14180057)2\obj\x86\Debug\UAS_14180057_2.beli_brg.resources
+C:\Users\User\Downloads\POS VB.net\UAS(14180057)2\obj\x86\Debug\UAS_14180057_2.Dashboard.resources
+C:\Users\User\Downloads\POS VB.net\UAS(14180057)2\obj\x86\Debug\UAS_14180057_2.Form1.resources
+C:\Users\User\Downloads\POS VB.net\UAS(14180057)2\obj\x86\Debug\UAS_14180057_2.Jenis_Barang.resources
+C:\Users\User\Downloads\POS VB.net\UAS(14180057)2\obj\x86\Debug\UAS_14180057_2.Login.resources
+C:\Users\User\Downloads\POS VB.net\UAS(14180057)2\obj\x86\Debug\UAS_14180057_2.Resources.resources
+C:\Users\User\Downloads\POS VB.net\UAS(14180057)2\obj\x86\Debug\UAS_14180057_2.pembelian.resources
+C:\Users\User\Downloads\POS VB.net\UAS(14180057)2\obj\x86\Debug\UAS_14180057_2.penjualan.resources
+C:\Users\User\Downloads\POS VB.net\UAS(14180057)2\obj\x86\Debug\UAS_14180057_2.Suplier.resources
+C:\Users\User\Downloads\POS VB.net\UAS(14180057)2\obj\x86\Debug\UAS_14180057_2.tambah_barang.resources
+C:\Users\User\Downloads\POS VB.net\UAS(14180057)2\obj\x86\Debug\UAS_14180057_2.tambah_suplier.resources
+C:\Users\User\Downloads\POS VB.net\UAS(14180057)2\obj\x86\Debug\UAS_14180057_2.tmbah_jenis_barang.resources
+C:\Users\User\Downloads\POS VB.net\UAS(14180057)2\obj\x86\Debug\UAS_14180057_2.tmbh_user.resources
+C:\Users\User\Downloads\POS VB.net\UAS(14180057)2\obj\x86\Debug\UAS_14180057_2.ubah_beli.resources
+C:\Users\User\Downloads\POS VB.net\UAS(14180057)2\obj\x86\Debug\UAS_14180057_2.update_delete_barang.resources
+C:\Users\User\Downloads\POS VB.net\UAS(14180057)2\obj\x86\Debug\UAS_14180057_2.update_delete_jenis_barang.resources
+C:\Users\User\Downloads\POS VB.net\UAS(14180057)2\obj\x86\Debug\UAS_14180057_2.update_delete_suplier.resources
+C:\Users\User\Downloads\POS VB.net\UAS(14180057)2\obj\x86\Debug\UAS_14180057_2.update_delete_user.resources
+C:\Users\User\Downloads\POS VB.net\UAS(14180057)2\obj\x86\Debug\UAS_14180057_2.user.resources
+C:\Users\User\Downloads\POS VB.net\UAS(14180057)2\obj\x86\Debug\UAS(14180057)2.vbproj.GenerateResource.Cache
+C:\Users\User\Downloads\POS VB.net\UAS(14180057)2\obj\x86\Debug\UAS(14180057)2.exe.manifest
+C:\Users\User\Downloads\POS VB.net\UAS(14180057)2\obj\x86\Debug\UAS(14180057)2.application

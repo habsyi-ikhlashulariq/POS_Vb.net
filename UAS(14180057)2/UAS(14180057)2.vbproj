@@ -1,0 +1,456 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{BA5E20A2-CE47-4958-83F1-3487BB7EA58E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>UAS_14180057_2.My.MyApplication</StartupObject>
+    <RootNamespace>UAS_14180057_2</RootNamespace>
+    <AssemblyName>UAS%2814180057%292</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>UAS%2814180057%292.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>UAS%2814180057%292.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>10C8ECF38B65CF57CD124D9C60B051192E5E8F27</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>UAS%2814180057%292_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Barang.Designer.vb">
+      <DependentUpon>Barang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Barang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="beli_brg.Designer.vb">
+      <DependentUpon>beli_brg.vb</DependentUpon>
+    </Compile>
+    <Compile Include="beli_brg.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dashboard.Designer.vb">
+      <DependentUpon>Dashboard.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Dashboard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Jenis_Barang.Designer.vb">
+      <DependentUpon>Jenis_Barang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Jenis_Barang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.vb">
+      <DependentUpon>Login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module1.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="pembelian.Designer.vb">
+      <DependentUpon>pembelian.vb</DependentUpon>
+    </Compile>
+    <Compile Include="pembelian.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="penjualan.Designer.vb">
+      <DependentUpon>penjualan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="penjualan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Suplier.Designer.vb">
+      <DependentUpon>Suplier.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Suplier.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tambah_barang.Designer.vb">
+      <DependentUpon>tambah_barang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="tambah_barang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tambah_suplier.Designer.vb">
+      <DependentUpon>tambah_suplier.vb</DependentUpon>
+    </Compile>
+    <Compile Include="tambah_suplier.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tmbah_jenis_barang.Designer.vb">
+      <DependentUpon>tmbah_jenis_barang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="tmbah_jenis_barang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tmbh_user.Designer.vb">
+      <DependentUpon>tmbh_user.vb</DependentUpon>
+    </Compile>
+    <Compile Include="tmbh_user.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ubah_beli.Designer.vb">
+      <DependentUpon>ubah_beli.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ubah_beli.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="update_delete_barang.Designer.vb">
+      <DependentUpon>update_delete_barang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="update_delete_barang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="update_delete_jenis_barang.Designer.vb">
+      <DependentUpon>update_delete_jenis_barang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="update_delete_jenis_barang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="update_delete_suplier.Designer.vb">
+      <DependentUpon>update_delete_suplier.vb</DependentUpon>
+    </Compile>
+    <Compile Include="update_delete_suplier.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="update_delete_user.Designer.vb">
+      <DependentUpon>update_delete_user.vb</DependentUpon>
+    </Compile>
+    <Compile Include="update_delete_user.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="user.Designer.vb">
+      <DependentUpon>user.vb</DependentUpon>
+    </Compile>
+    <Compile Include="user.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Barang.resx">
+      <DependentUpon>Barang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="beli_brg.resx">
+      <DependentUpon>beli_brg.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dashboard.resx">
+      <DependentUpon>Dashboard.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Jenis_Barang.resx">
+      <DependentUpon>Jenis_Barang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pembelian.resx">
+      <DependentUpon>pembelian.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="penjualan.resx">
+      <DependentUpon>penjualan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Suplier.resx">
+      <DependentUpon>Suplier.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tambah_barang.resx">
+      <DependentUpon>tambah_barang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tambah_suplier.resx">
+      <DependentUpon>tambah_suplier.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tmbah_jenis_barang.resx">
+      <DependentUpon>tmbah_jenis_barang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tmbh_user.resx">
+      <DependentUpon>tmbh_user.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ubah_beli.resx">
+      <DependentUpon>ubah_beli.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="update_delete_barang.resx">
+      <DependentUpon>update_delete_barang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="update_delete_jenis_barang.resx">
+      <DependentUpon>update_delete_jenis_barang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="update_delete_suplier.resx">
+      <DependentUpon>update_delete_suplier.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="update_delete_user.resx">
+      <DependentUpon>update_delete_user.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="user.resx">
+      <DependentUpon>user.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="UAS%2814180057%292_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calender.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\time-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menu-4-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-2-1282.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-2-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-2-1281.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lock-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_silver.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Misc-User-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\avatar-placeholder.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimaze.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimaze2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="ADODB">
+      <Guid>{2A75196C-D9EB-4129-B803-931327F72D5C}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="ADOMD">
+      <Guid>{22813728-8BD3-11D0-B4EF-00A0C9138CA4}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jumper-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save-1281.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\available-updates-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-add-100.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add-file-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\available-updates-1281.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\available-updates-1282.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\available-updates-1283.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save-1282.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete-1281.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
